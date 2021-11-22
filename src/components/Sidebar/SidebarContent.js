@@ -42,7 +42,7 @@ function SidebarContent() {
           )
         )}
       </ul>
-      <div className="md:block hidden px-6 my-6">
+      <div className=" px-6 my-6">
         <Button>
           Connect Wallet
           <span className="ml-2" aria-hidden="true">

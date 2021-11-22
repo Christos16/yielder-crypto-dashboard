@@ -111,7 +111,7 @@ function Header() {
      </Button>
           </li>
           {/* <!-- Profile menu --> */}
-          <li className="relative">
+          <li className="md:block hidden relative">
            <Button>Connect Wallet</Button>
           </li>
         </ul>

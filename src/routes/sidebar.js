@@ -19,7 +19,7 @@ const routes = [
   {
     path: '/app/vaults',
     icon: 'CardsIcon',
-    name: 'Valuts',
+    name: 'Vaults',
   },
   {
     path: '/app/Labs',
